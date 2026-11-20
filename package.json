@@ -1,0 +1,21 @@
+{
+  "name": "apres-l-orage",
+  "version": "0.1.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8000 --bind 0.0.0.0 --directory jeu",
+    "build": "node scripts/build.cjs",
+    "test": "node tests/pilot.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "inkjs": "2.4.0"
+  }
+}

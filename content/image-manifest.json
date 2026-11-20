@@ -1,0 +1,295 @@
+[
+  {
+    "id": "S01",
+    "path": "assets/art/les-aulnes.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "5ddb7fe47c1035820d2c19c591cd22b8cd5dcbeb5493731b7d4737b0a1adfcfb",
+    "alternative": "Brume et rivière au pied des maisons des Aulnes.",
+    "reuse": [
+      "S01"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "S02",
+    "path": "assets/art/le-bulletin.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "737f45db5aedceff7eb670245bbd046e60c82584944e4a88b0ee1b65b3b93a75",
+    "alternative": "Un poste en bois, près d’une fenêtre.",
+    "reuse": [
+      "S02",
+      "S02B"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "S03",
+    "path": "assets/art/le-pouvoir.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "a417016737539578342cf88226dfa46e058fa83def060d706339fe6592280e33",
+    "alternative": "Des délégués réunis dans un hémicycle fictif.",
+    "reuse": [
+      "S03"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "S04",
+    "path": "assets/art/la-chute.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "e9edec681a52a317bd6549249867cdc39f443dc04cbd2e34d5dcecee2f188724",
+    "alternative": "Une coupe renversée reflète une ville symbolique.",
+    "reuse": [
+      "S04"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "S05",
+    "path": "assets/art/les-jours.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "c3f4caf9e78c88bca462bbab757ab0f46b17b65330284036ac365f1846add0f4",
+    "alternative": "Deux personnes parlent dans un atelier éclairé par une lampe.",
+    "reuse": [
+      "S05A",
+      "S05B"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F05-01",
+    "path": "assets/art/reserves.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "3754ff61e1700ac461227394896413b6f2b573fe21c2e74bb4f97685968c9dd7",
+    "alternative": "Sur une marche sous la table à pain, deux cruches bleues ; la petite a perdu son anse.",
+    "reuse": [
+      "F05-01"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F05-02",
+    "path": "assets/art/releve.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "1cb2d577205d37720d59dd7eb181f55e5ea1a156a55dd2fb1ff6623b141aac0b",
+    "alternative": "Nils dénoue son tablier près des poignées de la charrette.",
+    "reuse": [
+      "F05-02A",
+      "F05-02B"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F06-01",
+    "path": "assets/art/siege-vide.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "e98d79c558bf642ae4f2f8c49de0fb9059f3cda0903e95a6aaac0c1e7990accb",
+    "alternative": "Un fauteuil de rotin reste sur le seuil après le refus de la salle.",
+    "reuse": [
+      "F06-01",
+      "F06-01S"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F06-02",
+    "path": "assets/art/voix-du-pont.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "b5ffc29b51aca5dc008e83e3712ed9bd0087f6ef6da0751e818581264cf0c8f6",
+    "alternative": "Sur le pont, Nils tient un brin de jonc entre ses doigts.",
+    "reuse": [
+      "F06-02"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F07-01",
+    "path": "assets/art/une-odeur.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "1c7b4188a2967efb09873c93a728e4d858531a77d97262d6de80e213d3d7021a",
+    "alternative": "Deux femmes s’écoutent de part et d’autre du comptoir du fournil.",
+    "reuse": [
+      "F07-01"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F07-02",
+    "path": "assets/art/le-jeudi.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "c662096ecbf4b6f4db581bd8de0dc9cf35080f9adfdb5fa345b6a9627bbd62f3",
+    "alternative": "Alba tient une clef près d’un livre fermé sur la table.",
+    "reuse": [
+      "F07-02"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F07-03",
+    "path": "assets/art/seuil-four.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "42c6abb374c03f8e256889f5641acef112ec6b61d2fe1fa971f8f1a9abcacd17",
+    "alternative": "Sur le seuil tiède du fournil, un carnet fermé attend une prochaine conversation.",
+    "reuse": [
+      "F07-03A",
+      "F07-03B"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F08-01",
+    "path": "assets/art/photo-sans-legende.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "a22f5c02010fc89cdb4098aae42007d38864e818ec2de691eadf44b44f6b58a3",
+    "alternative": "Une image de papier montre une forme claire dans une voûte. Aucun visage identifiable.",
+    "reuse": [
+      "F08-01A",
+      "F08-01B"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F08-02",
+    "path": "assets/art/marge-carnet.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "0411376fceb97926740fddc586f4f7253de7bdf99713f6810a6fef78053136bf",
+    "alternative": "Deux reproductions d’une même image posées sur le carnet près de la clef.",
+    "reuse": [
+      "F08-02"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F09-01",
+    "path": "assets/art/ciel-d-etain.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "c10068ab628fb639a5ba1b15aa08e91ec1876baeb0963a5044a552f328c587cb",
+    "alternative": "Une bande cuivrée révèle les méandres de la vallée sous un ciel devenu bleu sombre.",
+    "reuse": [
+      "F09-01",
+      "F09-01S"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F10-01",
+    "path": "assets/art/signe-du-fils.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "3aea700b0a1e6fb9aa297ac5c95c4fbb72e0185b6a1be069a8df345839a80fc1",
+    "alternative": "Vision artistique du Christ dans les nuées, distincte du paysage terrestre.",
+    "reuse": [
+      "F10-01"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F11-01",
+    "path": "assets/art/place-du-roi.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "b8937818ec9eba8218c17922b4562a121183013d3183d9d3148e70d1614530fe",
+    "alternative": "Un Roi siège au milieu des anges devant une foule ; Maëlle n’occupe pas le trône.",
+    "reuse": [
+      "F11-01"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F13-01",
+    "path": "assets/art/bruit-dehors.jpg",
+    "dimensions": [
+      1456,
+      720
+    ],
+    "format": "JPEG",
+    "sha256": "f8e55cdf7af187bca563cf067df88dd1eb18e0e387e1e3ef3b568fc250dc75f6",
+    "alternative": "À travers une vitre, des villageois aperçoivent l’accès fermé à la cour.",
+    "reuse": [
+      "F13-01",
+      "F13-01S"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  },
+  {
+    "id": "F13-02",
+    "path": "assets/art/epaules-suzanne.jpg",
+    "dimensions": [
+      1504,
+      704
+    ],
+    "format": "JPEG",
+    "sha256": "0ad883380b7e15f181f0145bedbb109811daf18677e32d6ff519db1b7c134e1c",
+    "alternative": "Les mains de Suzanne se détendent près du cannage d’un fauteuil.",
+    "reuse": [
+      "F13-02"
+    ],
+    "provenance": "Image synthétique originale Arena"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "confirmees": [
+    [
+      "E02",
+      "E03",
+      "U"
+    ],
+    [
+      "E03",
+      "E14",
+      "P"
+    ],
+    [
+      "E14",
+      "E15",
+      "T"
+    ],
+    [
+      "E14",
+      "E16",
+      "T"
+    ],
+    [
+      "E11",
+      "E14",
+      "JU"
+    ],
+    [
+      "E11",
+      "E13",
+      "RG"
+    ],
+    [
+      "E12",
+      "E14",
+      "RG"
+    ]
+  ],
+  "alternatives": [
+    {
+      "source": "P",
+      "A": [
+        "E01",
+        "E03"
+      ],
+      "B": [
+        "E03",
+        "E01"
+      ]
+    }
+  ],
+  "intervallesChiffres": [],
+  "relationsDeDebut": [
+    {
+      "duDebut": "E13",
+      "vers": "E12",
+      "source": "RG",
+      "nuance": "pas nécessairement après la fin de l’attaque"
+    }
+  ]
+}

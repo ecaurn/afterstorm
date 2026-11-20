@@ -1,0 +1,496 @@
+[
+  {
+    "id": "S01",
+    "event": "E00",
+    "intitule": "Un matin ordinaire",
+    "etat": "intégré",
+    "audioBlocs": [
+      "S01"
+    ]
+  },
+  {
+    "id": "F00-02",
+    "event": "E00",
+    "intitule": "Les deux reçus",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F00-02"
+    ]
+  },
+  {
+    "id": "S02",
+    "event": "E01",
+    "intitule": "La ligne du carnet",
+    "etat": "intégré",
+    "audioBlocs": [
+      "S02",
+      "S02B"
+    ]
+  },
+  {
+    "id": "S03",
+    "event": "E02",
+    "intitule": "Dix traits au crayon",
+    "etat": "intégré",
+    "audioBlocs": [
+      "S03"
+    ]
+  },
+  {
+    "id": "S04",
+    "event": "E03",
+    "intitule": "Le jeudi d’Alba",
+    "etat": "intégré",
+    "audioBlocs": [
+      "S04"
+    ]
+  },
+  {
+    "id": "F03-02",
+    "event": "E03",
+    "intitule": "Les clefs sans porte",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F03-02"
+    ]
+  },
+  {
+    "id": "S05",
+    "event": "E04",
+    "intitule": "Dans l’atelier",
+    "etat": "intégré",
+    "audioBlocs": [
+      "S05A",
+      "S05B"
+    ]
+  },
+  {
+    "id": "F04-02",
+    "event": "E04",
+    "intitule": "Le trajet interrompu",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F04-02"
+    ]
+  },
+  {
+    "id": "F05-01",
+    "event": "E05",
+    "intitule": "La table des réserves",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F05-01"
+    ]
+  },
+  {
+    "id": "F05-02",
+    "event": "E05",
+    "intitule": "Le tour de relève",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F05-02A",
+      "F05-02B"
+    ]
+  },
+  {
+    "id": "F06-01",
+    "event": "E06",
+    "intitule": "Le siège vide",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F06-01",
+      "F06-01S"
+    ]
+  },
+  {
+    "id": "F06-02",
+    "event": "E06",
+    "intitule": "Ce que Nils a entendu",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F06-02"
+    ]
+  },
+  {
+    "id": "F07-01",
+    "event": "E07",
+    "intitule": "Une odeur de pain",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F07-01"
+    ]
+  },
+  {
+    "id": "F07-02",
+    "event": "E07",
+    "intitule": "La question du jeudi",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F07-02"
+    ]
+  },
+  {
+    "id": "F07-03",
+    "event": "E07",
+    "intitule": "Une réponse sans formule",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F07-03A",
+      "F07-03B"
+    ]
+  },
+  {
+    "id": "F08-01",
+    "event": "E08",
+    "intitule": "La photo sans légende",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F08-01A",
+      "F08-01B"
+    ]
+  },
+  {
+    "id": "F08-02",
+    "event": "E08",
+    "intitule": "La marge du carnet",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F08-02"
+    ]
+  },
+  {
+    "id": "F09-01",
+    "event": "E09",
+    "intitule": "Sous les nuages",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F09-01",
+      "F09-01S"
+    ]
+  },
+  {
+    "id": "F10-01",
+    "event": "E10",
+    "intitule": "La lumière du seuil",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F10-01"
+    ]
+  },
+  {
+    "id": "F11-01",
+    "event": "E11",
+    "intitule": "La place du Roi",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F11-01"
+    ]
+  },
+  {
+    "id": "F12-01",
+    "event": "E12",
+    "intitule": "Les quatre mots",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F12-01"
+    ]
+  },
+  {
+    "id": "F12-02",
+    "event": "E12",
+    "intitule": "Le fil qui se retire",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F12-02"
+    ]
+  },
+  {
+    "id": "F13-01",
+    "event": "E13",
+    "intitule": "Le bruit dehors",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F13-01",
+      "F13-01S"
+    ]
+  },
+  {
+    "id": "F13-02",
+    "event": "E13",
+    "intitule": "Les épaules de Suzanne",
+    "etat": "intégré",
+    "audioBlocs": [
+      "F13-02"
+    ]
+  },
+  {
+    "id": "F14-01",
+    "event": "E14",
+    "intitule": "La ligne des crêtes",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F14-01"
+    ]
+  },
+  {
+    "id": "F14-02",
+    "event": "E14",
+    "intitule": "Quand le bruit cesse",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F14-02"
+    ]
+  },
+  {
+    "id": "F14-03",
+    "event": "E14",
+    "intitule": "Une tasse après le silence",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F14-03"
+    ]
+  },
+  {
+    "id": "F15-01",
+    "event": "E15",
+    "intitule": "La profondeur sans carte",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F15-01"
+    ]
+  },
+  {
+    "id": "F16-01",
+    "event": "E16",
+    "intitule": "Le pain du matin",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F16-01"
+    ]
+  },
+  {
+    "id": "F16-02",
+    "event": "E16",
+    "intitule": "Trois tabourets",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F16-02"
+    ]
+  },
+  {
+    "id": "F16-03",
+    "event": "E16",
+    "intitule": "Le plan de travail",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F16-03"
+    ]
+  },
+  {
+    "id": "F17-01",
+    "event": "E17",
+    "intitule": "Une chambre sans étiquette",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F17-01"
+    ]
+  },
+  {
+    "id": "F17-02",
+    "event": "E17",
+    "intitule": "La main de Lise",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F17-02"
+    ]
+  },
+  {
+    "id": "F17-03",
+    "event": "E17",
+    "intitule": "Le bouton bleu",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F17-03"
+    ]
+  },
+  {
+    "id": "F17-04",
+    "event": "E17",
+    "intitule": "Le tourneur",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F17-04"
+    ]
+  },
+  {
+    "id": "F17-05",
+    "event": "E17",
+    "intitule": "Le premier repas",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F17-05"
+    ]
+  },
+  {
+    "id": "F18-01",
+    "event": "E18",
+    "intitule": "Un mot avant la leçon",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F18-01"
+    ]
+  },
+  {
+    "id": "F18-02",
+    "event": "E18",
+    "intitule": "Le calendrier de Lise",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F18-02"
+    ]
+  },
+  {
+    "id": "F18-03",
+    "event": "E18",
+    "intitule": "Lire à deux",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F18-03"
+    ]
+  },
+  {
+    "id": "F18-04",
+    "event": "E18",
+    "intitule": "Le tour et la terre",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F18-04"
+    ]
+  },
+  {
+    "id": "F18-05",
+    "event": "E18",
+    "intitule": "Changer de maître",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F18-05"
+    ]
+  },
+  {
+    "id": "F19-01",
+    "event": "E19",
+    "intitule": "La berge",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-01"
+    ]
+  },
+  {
+    "id": "F19-02",
+    "event": "E19",
+    "intitule": "Les maisons",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-02"
+    ]
+  },
+  {
+    "id": "F19-03",
+    "event": "E19",
+    "intitule": "Le jardin en pente",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-03"
+    ]
+  },
+  {
+    "id": "F19-04",
+    "event": "E19",
+    "intitule": "Le seuil accessible",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-04"
+    ]
+  },
+  {
+    "id": "F19-05",
+    "event": "E19",
+    "intitule": "Le toit de l’atelier",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-05"
+    ]
+  },
+  {
+    "id": "F19-06",
+    "event": "E19",
+    "intitule": "Le bois de la place",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F19-06"
+    ]
+  },
+  {
+    "id": "F20-01",
+    "event": "E20",
+    "intitule": "Le pas de Suzanne",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F20-01"
+    ]
+  },
+  {
+    "id": "F20-02",
+    "event": "E20",
+    "intitule": "Le bestiaire",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F20-02"
+    ]
+  },
+  {
+    "id": "F20-03",
+    "event": "E20",
+    "intitule": "La veillée des chants",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F20-03"
+    ]
+  },
+  {
+    "id": "F21-01",
+    "event": "E21",
+    "intitule": "Après les mille ans",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F21-01"
+    ]
+  },
+  {
+    "id": "F21-02",
+    "event": "E21",
+    "intitule": "La fin du refus",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F21-02"
+    ]
+  },
+  {
+    "id": "F22-01",
+    "event": "E22",
+    "intitule": "Le grand jeudi",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F22-01"
+    ]
+  },
+  {
+    "id": "F22-02",
+    "event": "E22",
+    "intitule": "La vallée en partage",
+    "etat": "à rechercher",
+    "audioBlocs": [
+      "F22-02"
+    ]
+  }
+]

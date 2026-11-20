@@ -1,0 +1,32 @@
+{
+  "passed": [
+    "Démarrage sous /fiction/ et illustration décodée",
+    "Lecture explicite, pause, vitesse et muet",
+    "Double décision sur la même scène ignorée",
+    "Erreur d’enquête, aides et reprise locale",
+    "Parcours A du pilote : E01 puis E03, mémoire du bouton",
+    "Relecture sans altérer le journal",
+    "Parcours B du pilote : E03 puis E01, mémoire de la liste",
+    "Import invalide sans perte",
+    "Mobile, clavier, choix sans son",
+    "MP3 absent : message et relance",
+    "Vingt-sept fichiers jouables dans Chromium",
+    "Import de la vraie sauvegarde du lot 1 : ouverture directe des réserves",
+    "Point de chapitre et mode Gestion ; issue malgré énergie et pain épuisés",
+    "Séquence sensible : résumé MP3, repères et passage sans sanction",
+    "Deux nouvelles enquêtes : fausse inférence, deux aides et résolution",
+    "Écouter Alba : fin du deuxième lot sur le parcours B",
+    "Relecture tardive : variante conservée et journal immuable",
+    "Parcours A intégral du lot : charrette, poire et lecture avec Alba",
+    "Import incohérent : coût non payable refusé",
+    "Import lot 2 A et B : mêmes douze décisions, bon carnet narré",
+    "Indices : un mauvais rapprochement ne compte pas comme décision",
+    "Sélection de preuves sauvegardée après actualisation, complète au clavier",
+    "Conclusion : ni accusation ni certitude sans témoin",
+    "Interludes distincts : résumé du ciel, image entière et références du Juge",
+    "Foule et Roi : deux gestes sans verdict ; Gog, résumé et sortie B",
+    "Point de chapitre : carnet sur l’étagère, aide aux marques, parcours A",
+    "Relecture et mobile : pas de mutation, pas de débordement",
+    "Aucune exception JS"
+  ]
+}

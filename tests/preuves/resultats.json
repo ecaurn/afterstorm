@@ -1,0 +1,16 @@
+{
+  "passed": [
+    "Démarrage sous /fiction/ et illustration décodée",
+    "Lecture explicite, pause, vitesse et muet",
+    "Double décision sur la même scène ignorée",
+    "Erreur d’enquête, aides et reprise locale",
+    "Parcours A du pilote : E01 puis E03, mémoire du bouton",
+    "Relecture sans altérer le journal",
+    "Parcours B du pilote : E03 puis E01, mémoire de la liste",
+    "Import invalide sans perte",
+    "Mobile, clavier, choix sans son",
+    "MP3 absent : message et relance",
+    "Sept fichiers jouables dans Chromium",
+    "Aucune exception JS"
+  ]
+}

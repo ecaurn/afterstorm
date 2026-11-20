@@ -1,0 +1,688 @@
+[
+  {
+    "id": "E00",
+    "title": "Le monde d’avant",
+    "bible": "2 Timothée 3:1",
+    "sources": [
+      "T"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "S01"
+    ],
+    "decisions": [
+      "button",
+      "list"
+    ],
+    "illustrations": [
+      "assets/art/les-aulnes.jpg"
+    ],
+    "blocs": [
+      "S01"
+    ],
+    "mp3": [
+      "assets/voice/S01.mp3"
+    ],
+    "tests": [
+      "tests/pilot.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E01",
+    "title": "Paix et sécurité !",
+    "bible": "1 Thessaloniciens 5:3",
+    "sources": [
+      "P"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "avant ou après E03",
+    "scenes": [
+      "S02"
+    ],
+    "decisions": [
+      "fact",
+      "rumor"
+    ],
+    "illustrations": [
+      "assets/art/le-bulletin.jpg"
+    ],
+    "blocs": [
+      "S02",
+      "S02B"
+    ],
+    "mp3": [
+      "assets/voice/S02.mp3",
+      "assets/voice/S02B.mp3"
+    ],
+    "tests": [
+      "tests/pilot.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E02",
+    "title": "Le pouvoir remis",
+    "bible": "Révélation 17:16, 17",
+    "sources": [
+      "U",
+      "P"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "avant E03",
+    "scenes": [
+      "S03"
+    ],
+    "decisions": [
+      "unknown",
+      "date"
+    ],
+    "illustrations": [
+      "assets/art/le-pouvoir.jpg"
+    ],
+    "blocs": [
+      "S03"
+    ],
+    "mp3": [
+      "assets/voice/S03.mp3"
+    ],
+    "tests": [
+      "tests/pilot.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E03",
+    "title": "La chute de Babylone",
+    "bible": "Révélation 17:3-5, 16",
+    "sources": [
+      "P",
+      "T"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ouvre la tribulation",
+    "scenes": [
+      "S04"
+    ],
+    "decisions": [
+      "bench",
+      "stay"
+    ],
+    "illustrations": [
+      "assets/art/la-chute.jpg"
+    ],
+    "blocs": [
+      "S04"
+    ],
+    "mp3": [
+      "assets/voice/S04.mp3"
+    ],
+    "tests": [
+      "tests/pilot.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E04",
+    "title": "Les jours bouleversés",
+    "bible": "Matthieu 24:21, 22",
+    "sources": [
+      "T"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "S05"
+    ],
+    "decisions": [
+      "wait",
+      "relay"
+    ],
+    "illustrations": [
+      "assets/art/les-jours.jpg"
+    ],
+    "blocs": [
+      "S05A",
+      "S05B"
+    ],
+    "mp3": [
+      "assets/voice/S05A.mp3",
+      "assets/voice/S05B.mp3"
+    ],
+    "tests": [
+      "tests/pilot.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E05",
+    "title": "Les réserves communes",
+    "bible": "2 Corinthiens 8:12-15",
+    "sources": [
+      "PA"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F05-01",
+      "F05-02"
+    ],
+    "decisions": [
+      "cart",
+      "table",
+      "carry",
+      "basket",
+      "share"
+    ],
+    "illustrations": [
+      "assets/art/reserves.jpg",
+      "assets/art/releve.jpg"
+    ],
+    "blocs": [
+      "F05-01",
+      "F05-02A",
+      "F05-02B"
+    ],
+    "mp3": [
+      "assets/voice/F05-01.mp3",
+      "assets/voice/F05-02A.mp3",
+      "assets/voice/F05-02B.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot2.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E06",
+    "title": "Sous la pression",
+    "bible": "Matthieu 24:9",
+    "sources": [
+      "CO",
+      "OP"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F06-01",
+      "F06-02"
+    ],
+    "decisions": [
+      "box",
+      "walk",
+      "witness",
+      "erase",
+      "forward"
+    ],
+    "illustrations": [
+      "assets/art/siege-vide.jpg",
+      "assets/art/voix-du-pont.jpg"
+    ],
+    "blocs": [
+      "F06-01",
+      "F06-01S",
+      "F06-02"
+    ],
+    "mp3": [
+      "assets/voice/F06-01.mp3",
+      "assets/voice/F06-01S.mp3",
+      "assets/voice/F06-02.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot2.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E07",
+    "title": "Un message qui résonne",
+    "bible": "Matthieu 24:14 ; Révélation 16:21",
+    "sources": [
+      "CO",
+      "M"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F07-01",
+      "F07-02",
+      "F07-03"
+    ],
+    "decisions": [
+      "private",
+      "public",
+      "verse",
+      "chair",
+      "lend",
+      "shelf"
+    ],
+    "illustrations": [
+      "assets/art/une-odeur.jpg",
+      "assets/art/le-jeudi.jpg",
+      "assets/art/seuil-four.jpg"
+    ],
+    "blocs": [
+      "F07-01",
+      "F07-02",
+      "F07-03A",
+      "F07-03B"
+    ],
+    "mp3": [
+      "assets/voice/F07-01.mp3",
+      "assets/voice/F07-02.mp3",
+      "assets/voice/F07-03A.mp3",
+      "assets/voice/F07-03B.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot2.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E08",
+    "title": "Ne vous laissez pas égarer",
+    "bible": "Matthieu 24:23-26",
+    "sources": [
+      "AV"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F08-01",
+      "F08-02"
+    ],
+    "decisions": [
+      "pair",
+      "unproven",
+      "trick",
+      "there"
+    ],
+    "illustrations": [
+      "assets/art/photo-sans-legende.jpg",
+      "assets/art/marge-carnet.jpg"
+    ],
+    "blocs": [
+      "F08-01A",
+      "F08-01B",
+      "F08-02"
+    ],
+    "mp3": [
+      "assets/voice/F08-01A.mp3",
+      "assets/voice/F08-01B.mp3",
+      "assets/voice/F08-02.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot3.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E09",
+    "title": "Les signes dans le ciel",
+    "bible": "Matthieu 24:29 ; Luc 21:25, 26",
+    "sources": [
+      "CI"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F09-01"
+    ],
+    "decisions": [
+      "trees",
+      "home"
+    ],
+    "illustrations": [
+      "assets/art/ciel-d-etain.jpg"
+    ],
+    "blocs": [
+      "F09-01",
+      "F09-01S"
+    ],
+    "mp3": [
+      "assets/voice/F09-01.mp3",
+      "assets/voice/F09-01S.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot3.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E10",
+    "title": "Le signe du Fils de l’homme",
+    "bible": "Matthieu 24:3, 30",
+    "sources": [
+      "FI"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [
+      "F10-01"
+    ],
+    "decisions": [
+      "judge",
+      "same"
+    ],
+    "illustrations": [
+      "assets/art/signe-du-fils.jpg"
+    ],
+    "blocs": [
+      "F10-01"
+    ],
+    "mp3": [
+      "assets/voice/F10-01.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot3.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E11",
+    "title": "Le jugement des brebis et des chèvres",
+    "bible": "Matthieu 25:31-46",
+    "sources": [
+      "JJ",
+      "JU"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "Avant Armaguédon ; scène avant le début de l’attaque de Gog (RG § 11).",
+    "scenes": [
+      "F11-01"
+    ],
+    "decisions": [
+      "reed",
+      "jug"
+    ],
+    "illustrations": [
+      "assets/art/place-du-roi.jpg"
+    ],
+    "blocs": [
+      "F11-01"
+    ],
+    "mp3": [
+      "assets/voice/F11-01.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot3.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E12",
+    "title": "Le rassemblement des derniers oints",
+    "bible": "Matthieu 24:31",
+    "sources": [
+      "T",
+      "M"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "vérifié",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E13",
+    "title": "L’attaque de Gog",
+    "bible": "Ézéchiel 38:2, 11, 15, 16 ; Révélation 20:7-9",
+    "sources": [
+      "GO",
+      "RG"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "Début de l’attaque avant le rassemblement ; chevauchement possible, sans intervalle fixé (RG § 11, 14–16).",
+    "scenes": [
+      "F13-01",
+      "F13-02"
+    ],
+    "decisions": [
+      "signal",
+      "quiet",
+      "frame",
+      "window"
+    ],
+    "illustrations": [
+      "assets/art/bruit-dehors.jpg",
+      "assets/art/epaules-suzanne.jpg"
+    ],
+    "blocs": [
+      "F13-01",
+      "F13-01S",
+      "F13-02"
+    ],
+    "mp3": [
+      "assets/voice/F13-01.mp3",
+      "assets/voice/F13-01S.mp3",
+      "assets/voice/F13-02.mp3"
+    ],
+    "tests": [
+      "tests/graph.cjs",
+      "tests/lot3.cjs"
+    ],
+    "documentaire": "vérifié",
+    "narratif": "intégré",
+    "visuel": "illustré",
+    "audio": "narré"
+  },
+  {
+    "id": "E14",
+    "title": "Armaguédon",
+    "bible": "Révélation 16:14, 16",
+    "sources": [
+      "T"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "vérifié",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E15",
+    "title": "L’abîme",
+    "bible": "Révélation 20:1-3",
+    "sources": [
+      "T"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "vérifié",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E16",
+    "title": "Le premier matin",
+    "bible": "Révélation 7:9, 14",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E17",
+    "title": "L’accueil des ressuscités",
+    "bible": "Actes 24:15",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E18",
+    "title": "Apprendre ensemble",
+    "bible": "Révélation 20:12",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E19",
+    "title": "Transformer la vallée",
+    "bible": "Isaïe 65:21-23",
+    "sources": [
+      "R"
+    ],
+    "comprehension": "vérifié",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "vérifié",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E20",
+    "title": "La vie retrouvée",
+    "bible": "Isaïe 35:5, 6",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E21",
+    "title": "Les mille ans et l’épreuve finale",
+    "bible": "Révélation 20:7-10",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  },
+  {
+    "id": "E22",
+    "title": "Une Terre devenue paradis",
+    "bible": "Révélation 21:3, 4",
+    "sources": [],
+    "comprehension": "à rechercher",
+    "chronologie": "ordre local non imposé",
+    "scenes": [],
+    "decisions": [],
+    "illustrations": [],
+    "blocs": [],
+    "mp3": [],
+    "tests": [],
+    "documentaire": "à rechercher",
+    "narratif": "à rechercher",
+    "visuel": "à rechercher",
+    "audio": "à rechercher"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "production": {
+    "audit": "inventaire → vérification",
+    "vérification": "sources ciblées et outil fonctionnel → conception",
+    "conception": "graphe local et script → tranche",
+    "tranche": "deux parcours du pilote testés → campagne",
+    "campagne": "événements joués → médias",
+    "médias": "quota atteint → reprise ; inventaire complet → tests",
+    "tests": "écart → corrections ; zéro écart → livraison",
+    "corrections": "contrôle de non-régression → tests",
+    "blocage": "fichier ou source indisponible → consigner puis reprendre au dernier état vérifié",
+    "livraison": "build statique, fichiers séparés, preuves et bilan ; pas d’archive ni de PDF"
+  },
+  "jeu": {
+    "lecture": "choix → contrôle de scène et destination",
+    "enquête": "erreur → indice ou nouvel essai ; deux indices → assistance",
+    "décision": "effet déduit du journal → sauvegarde → destination selon parcours",
+    "carnet": "lecture sans mutation → retour",
+    "finPilote": "relecture/partie exportée/nouveau parcours sur confirmation",
+    "réserves": "prix affiché → vérification du stock par rejouage → choix payé ou refus sans débit ; relève partagée toujours accessible",
+    "enquêtePhoto": "brouillon de 0–2 marques → valider la paire ou expliquer l’erreur → log de la décision ; indices progressifs et solution assistée ; pas de relecture mutante"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-20",
+  "phase": "E00–E11 et E13 jouables. E12 en préparation ; ne pas confondre numéros et ordre.",
+  "scenes": 19,
+  "blocs": 27,
+  "plan": 54,
+  "mondeNouveauPlan": 26,
+  "mondeNouveauJouable": 0,
+  "prochaineTache": "Prolonger F13-02 par E12 (appel, scellement, rassemblement, première résurrection), puis E14 (Armaguédon, silence et dialogue), E15 (abîme), et ouvrir E16 (premier matin). Ne pas réinsérer E12 en amont des journaux existants.",
+  "tests": "tests/preuves",
+  "versionSauvegarde": 1,
+  "tour": 3,
+  "contraintesExport": "Pas de nouveau ZIP ni PDF. Images uniquement JPG. 10 tentatives images et 10 audios maximum par tour."
+}

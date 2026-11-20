@@ -1,0 +1,91 @@
+{
+  "tour": 3,
+  "historique": [
+    ".project/lot-01-medias.json",
+    ".project/lot-02-medias.json"
+  ],
+  "jpgTentes": [
+    "assets/art/photo-sans-legende.jpg",
+    "assets/art/marge-carnet.jpg",
+    "assets/art/ciel-d-etain.jpg",
+    "assets/art/signe-du-fils.jpg",
+    "assets/art/place-du-roi.jpg",
+    "assets/art/bruit-dehors.jpg",
+    "assets/art/epaules-suzanne.jpg"
+  ],
+  "mp3Tentes": [
+    "assets/voice/F08-01A.mp3",
+    "assets/voice/F08-01B.mp3",
+    "assets/voice/F08-02.mp3",
+    "assets/voice/F09-01.mp3",
+    "assets/voice/F09-01S.mp3",
+    "assets/voice/F10-01.mp3",
+    "assets/voice/F11-01.mp3",
+    "assets/voice/F13-01.mp3",
+    "assets/voice/F13-01S.mp3",
+    "assets/voice/F13-02.mp3"
+  ],
+  "jpgValidesLot": 7,
+  "mp3ValidesLot": 10,
+  "jpgValidesTotal": 19,
+  "mp3ValidesTotal": 27,
+  "quotas": {
+    "jpgTentatives": "7/10",
+    "mp3": "10/10"
+  },
+  "aReprendre": [],
+  "aProduire": {
+    "mp3MinimumPlanifie": [
+      "F00-02",
+      "F03-02",
+      "F04-02",
+      "F12-01",
+      "F12-02",
+      "F14-01",
+      "F14-02",
+      "F14-03",
+      "F15-01",
+      "F16-01",
+      "F16-02",
+      "F16-03",
+      "F17-01",
+      "F17-02",
+      "F17-03",
+      "F17-04",
+      "F17-05",
+      "F18-01",
+      "F18-02",
+      "F18-03",
+      "F18-04",
+      "F18-05",
+      "F19-01",
+      "F19-02",
+      "F19-03",
+      "F19-04",
+      "F19-05",
+      "F19-06",
+      "F20-01",
+      "F20-02",
+      "F20-03",
+      "F21-01",
+      "F21-02",
+      "F22-01",
+      "F22-02"
+    ],
+    "illustrationsEvenementsRestants": [
+      "E12",
+      "E14",
+      "E15",
+      "E16",
+      "E17",
+      "E18",
+      "E19",
+      "E20",
+      "E21",
+      "E22"
+    ]
+  },
+  "minimumLotsRestants": 4,
+  "hypothese": "Un MP3 au minimum par scène non écrite ; hors résumés, variantes et reprises.",
+  "auditifHumain": false
+}
